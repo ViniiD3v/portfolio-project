@@ -4,10 +4,6 @@
 <h1 align="center" style="font-weight: bold;">Portfólio 💻</h1>
 
 ![react][REACT__BADGE]
-![gatsby][GATSBY__BADGE]
-![angular][ANGULAR__BADGE]
-![vue][VUE__BADGE]
-![typescript][TYPESCRIPT__BADGE]
 ![javascript][JAVASCRIPT__BADGE]
 
 
