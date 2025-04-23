@@ -1,0 +1,33 @@
+.main-container {
+    width: 1640px;
+    max-height: 800px;
+    align-items: center;
+}
+
+
+.main-container h1{
+    font-size: 3.25rem;
+    font-weight: 800;
+}
+
+.main-container p{
+    font-size: 1.25rem;
+    color: var(--white);
+    opacity: 50%;
+}
+
+.social-midias i{
+    font-size: 2rem;
+    color: var(--white);
+    opacity: 50%;
+}
+
+.social-midias i:hover{
+    opacity: 100%;
+    cursor: pointer;
+}
+
+.caracter img{  
+    max-height: 700px;
+    max-height: 700px;
+}

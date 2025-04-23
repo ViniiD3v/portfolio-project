@@ -1,0 +1,36 @@
+.nav-bar {
+    width: 100%;
+}
+
+.nav-container {
+    max-width: 1650px;
+    height: 64px;
+    background-color: var(--purple-800);
+    border-radius: 20px;
+    background: rgba(123, 74, 226, 0.05)
+}
+
+.logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav-container .logo img{
+    width: 7rem;
+    height: 7rem;
+}
+
+.nav-container .navbar-links a{
+    font-size: 1.25rem;
+    font-family: "Raleway";
+    font-weight: 600;
+    text-decoration: none;
+    color: var(--white);
+    opacity: 50%;
+    align-items: center;
+}
+
+.nav-container .navbar-links a:hover{
+    opacity: 100%;
+}

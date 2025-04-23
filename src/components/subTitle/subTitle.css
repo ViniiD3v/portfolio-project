@@ -1,0 +1,17 @@
+.hand{
+    display: flex;
+    max-width: 140px;
+    justify-content: center;
+    height: 45px;
+    border-radius: 15px;
+    background: var(--purple-700);
+    opacity: 100%;
+}
+
+.hand span {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 700;
+    color: var(--purple-800);
+}

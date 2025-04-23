@@ -1,0 +1,28 @@
+:root {
+  --white: #ffff;
+  --purple-700: rgba(123, 74, 226, 0.05);
+  --purple-800: #7B4AE2;
+  --purple-900: #090E16;
+}
+
+:focus {
+  outline: none;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: var(--purple-900);
+  color: var(--white);
+  -webkit-font-smoothing: antialiased;
+}
+
+body, input, textarea, button {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 400;
+  font-size: 1rem;
+}

@@ -1,0 +1,22 @@
+.border-main {
+    border-top: 1px solid var(--purple-800);
+    border-bottom: 1px solid var(--purple-800);
+}
+
+.main-about {
+    width: 100%;
+    max-height: 800px;
+}
+
+.main-about h1{
+    font-size: 3rem;
+    font-weight: 800;
+}
+
+.about-text{
+    max-width: 800px;
+    text-align: justify;
+    font-size: 1.25rem;
+    color: var(--white);
+    opacity: 50%;
+}
