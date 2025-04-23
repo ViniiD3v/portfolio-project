@@ -1,5 +1,7 @@
 [JAVASCRIPT__BADGE]: https://img.shields.io/badge/Javascript-000?style=for-the-badge&logo=javascript
-[REACT__BADGE]: https://img.shields.io/badge/React-005CFE?style=for-the-badge&logo=react
+[REACT__BADGE]: https://img.shields.io/badge/React-000?style=for-the-badge&logo=react
+[PROJECT__BADGE]: https://img.shields.io/badge/📱Visit_this_project-000?style=for-the-badge&logo=project
+[PROJECT__URL]:
 
 <h1 align="center" style="font-weight: bold;">Portfólio 💻</h1>
 
@@ -11,23 +13,23 @@
     <img src="../.github/example.png" alt="Image Example" width="400px">
 </p>
 
-<h2 id="started">📌 About</h2>
+<h2 id="started">📌 Sobre</h2>
 
 Este é o meu portfólio desenvolvido com React, onde compartilho um pouco sobre mim, minhas habilidades e os projetos que venho desenvolvendo. O objetivo é apresentar meu trabalho de forma clara e moderna, destacando as tecnologias que utilizo e minha experiência com desenvolvimento web. Sinta-se à vontade para explorar os projetos e conhecer mais sobre meu perfil profissional!
 
 [![project][PROJECT__BADGE]][PROJECT__URL]
 
-<h3>Cloning</h3>
+<h3>Clonando</h3>
 
-How to clone your project
+Como clonar o projeto
 
 ```bash
 git clone git@github.com:ViniiD3v/portfolio-project.git
 ```
 
-<h3>Starting</h3>
+<h3>Iniciando</h3>
 
-How to start your project
+Como iniciar o projeto
 
 ```bash
 cd portfolio-vini
