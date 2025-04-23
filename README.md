@@ -1,6 +1,6 @@
 [JAVASCRIPT__BADGE]: https://img.shields.io/badge/Javascript-000?style=for-the-badge&logo=javascript
 [REACT__BADGE]: https://img.shields.io/badge/React-000?style=for-the-badge&logo=react
-[PROJECT__BADGE]: https://img.shields.io/badge/📱Visit_this_project-000?style=for-the-badge&logo=project
+[PROJECT__BADGE]: https://img.shields.io/badge/📱Visitar_o_projeto-000?style=for-the-badge&logo=project
 [PROJECT__URL]: https://github.com/Fernanda-Kipper/Readme-Templates
 
 <h1 align="center" style="font-weight: bold;">Portfólio 💻</h1>
