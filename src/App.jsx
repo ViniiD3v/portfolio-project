@@ -2,6 +2,7 @@ import './Global.css'
 import NavBar from './views/navbar/NavBar.jsx'
 import Main from './views/main/main.jsx'
 import About from './views/about/about.jsx'
+import Projects from './views/projects/projects.jsx'
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
       <NavBar />
       <Main />
       <About />
+      <Projects />
     </div>
   )
 }
