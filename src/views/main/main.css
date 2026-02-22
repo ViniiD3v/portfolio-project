@@ -1,14 +1,13 @@
 .main-container {
     width: 1640px;
-    max-height: 800px;
+    height: 800px;
     align-items: center;
 }
 
-
-.main-container h1{
-    font-size: 3.25rem;
-    font-weight: 800;
+.main-container .subtitle {
+    max-width: 140px
 }
+
 
 .main-container p{
     font-size: 1.25rem;

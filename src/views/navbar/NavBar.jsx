@@ -1,5 +1,5 @@
 import './NavBar.css'
-import Logo from '../../assets/V-removebg-preview.png'
+import Logo from '../../assets/VN-Logo.png'
 
 function NavBar() {
     return (
@@ -23,8 +23,8 @@ function NavBar() {
                     <div className='d-md-flex gap-4 align-items-center px-5'>
                         <a href="#">Home</a>
                         <a href="#">About</a>
-                        <a href="#">Skills</a>
                         <a href="#">Projects</a>
+                        <a href="#">Skills</a>
                         <a href="#">Contact</a>
                     </div>
                 </div>

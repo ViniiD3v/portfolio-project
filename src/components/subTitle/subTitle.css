@@ -1,6 +1,6 @@
 .hand{
     display: flex;
-    width: 140px;
+    width: auto;
     justify-content: center;
     height: 45px;
     border-radius: 15px;

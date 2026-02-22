@@ -3,7 +3,10 @@
     max-height: 1300px;
 }
 
-.project-title h1{
-    font-size: 3rem;
-    font-weight: 700;
+.project-title .subtitle {
+    max-width: 140px
+}
+
+.main-projects .card-icon i{
+    font-size: 1.7rem
 }

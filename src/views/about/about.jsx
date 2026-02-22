@@ -12,17 +12,17 @@ function About() {
                 </div>
                 <div className="about-content px-md-5 w-md-75">
                     <div className="pe-md-5">
-                        <SubTitle
-                            content="👨‍💻 Sobre mim"
-                        />
+                        <div className="subtitle">
+                            <SubTitle
+                                content="👨‍💻 Sobre mim"
+                            />
+                        </div>
                         <h1 className="pt-2">Vinicius Santos Figueiredo</h1>
-                        <p className="about-text pt-4">Me chamo Vinicius Santos Figueiredo, tenho 18 anos e sou natural de São Paulo e
-                            atualmente estou cursando Análise e Desenvolvimento de Sistemas.  Desenvolvo aplicações web há 2 anos,
-                            utilizando JavaScript, TypeScript e React no front-end, e Golang no back-end, criando soluções completas
-                            e bem estruturadas.
-                            Atualmente, venho explorando React Native para levar minha experiência com desenvolvimento web ao universo mobile,
-                            buscando criar aplicações com a mesma fluidez, qualidade e atenção aos detalhes que aplico em projetos para a web.
-                            A cada novo projeto ou tecnologia, vejo uma oportunidade de me aprofundar mais no que faço e evoluir como desenvolvedor.
+                        <p className="about-text pt-4">Sou o Vinicius Santos Figueiredo, tenho 18 anos, sou natural de São Paulo e estudante de 
+                            Análise e Desenvolvimento de Sistemas na FIAP. Como Desenvolvedor Fullstack em formação, foco meus estudos no ecossistema 
+                            JavaScript, TypeScript, React e Node.js, dedicando-me à criação de interfaces intuitivas, código limpo e soluções escaláveis. 
+                            Utilizo ferramentas como Git e metodologias modernas para organizar meus projetos, sendo movido pelo aprendizado contínuo e pela 
+                            busca por oportunidades que me permita evoluir tecnicamente e contribuir para projetos de impacto em times de alta performance.
                         </p>
                     </div>
                 </div>
