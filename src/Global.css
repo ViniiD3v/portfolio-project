@@ -1,8 +1,9 @@
 :root {
   --white: #ffff;
-  --purple-700: rgba(123, 74, 226, 0.05);
-  --purple-800: #7B4AE2;
-  --purple-900: #090E16;
+  --grey-700: #2021247e;
+  --grey-800: #17181b75;
+  --grey-850: #17181b;
+  --grey-900: #0E1013;
 }
 
 :focus {
@@ -13,10 +14,12 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  scrollbar-width: auto;
+  scrollbar-color: #333335 #2021247e;
 }
 
 body {
-  background-color: var(--purple-900);
+  background-color: var(--grey-900);
   color: var(--white);
   -webkit-font-smoothing: antialiased;
 }

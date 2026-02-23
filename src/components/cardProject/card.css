@@ -31,13 +31,24 @@
     font-weight: 600;
 }
 
-.tech-line button{
-    background-color: #000000ff;
+.tech-line .button-white button{
+    color: white;
+    background-color: #ffffff1c;
     border-radius: 10px;
 }
 
-.tech-line button:hover{
-    background-color: #000000ff;
+.tech-line .button-white button:hover{
+    background-color: #ffffff2d;
+}
+
+.tech-line .button-grey button{
+    background-color: var(--grey-850);
+    color: black;
+    border-radius: 10px;
+}
+
+.tech-line .button-grey button:hover{
+    background-color: #25262b;
 }
 
 .card-container img{

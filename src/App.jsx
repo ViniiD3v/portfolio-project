@@ -4,6 +4,7 @@ import Main from './views/main/main.jsx'
 import About from './views/about/about.jsx'
 import Projects from './views/projects/projects.jsx'
 import { Skills } from './views/skills/skills.jsx'
+import Baseboard from './views/baseboard/baseboard.jsx'
 
 function App() {
   return (
@@ -18,8 +19,11 @@ function App() {
       <div className='mb-5'>
         <Projects />
       </div>
-      <div className='mb-3'>
+      <div className='mb-5'>
         <Skills />
+      </div>
+      <div className='mt-5'>
+        <Baseboard />
       </div>
     </div>
   )

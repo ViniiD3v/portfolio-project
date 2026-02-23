@@ -1,6 +1,6 @@
 import "./main.css"
 import SubTitle from "../../components/subTitle/subTitle"
-import Caracter from "../../assets/caracter-vn-2.png"
+import Caracter from "../../assets/vini.png"
 
 function Main() {
     return (

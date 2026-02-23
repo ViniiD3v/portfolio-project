@@ -14,12 +14,16 @@ function Card(props) {
                 </div>
             </div>
             <div className="tech-line mt-3">
-                <button type="button" className="btn ">
-                    <a href=""><i className="bi bi-globe2 me-2"></i>Acessar projeto </a>
-                </button>
-                <button type="button" className="btn ">
-                    <a href=""><i className="bi bi-github me-2"></i>Acessar repositório</a>
-                </button>
+                <div className="button-white">
+                    <button type="button" className="btn ">
+                        <a href=""><i className="bi bi-globe2 me-2"></i>Acessar projeto </a>
+                    </button>
+                </div>
+                <div className="button-grey">
+                    <button type="button" className="btn ">
+                        <a href=""><i className="bi bi-github me-2"></i>Acessar repositório</a>
+                    </button>
+                </div>
             </div>
         </div>
     )

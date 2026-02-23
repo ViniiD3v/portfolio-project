@@ -5,9 +5,9 @@
 .nav-container {
     max-width: 1650px;
     height: 64px;
-    background-color: var(--purple-800);
+    background-color: var(--grey-800);
     border-radius: 20px;
-    background: rgba(123, 74, 226, 0.05)
+    background: var(--grey-800);
 }
 
 .logo{
