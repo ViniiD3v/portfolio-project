@@ -4,7 +4,7 @@ import SubTitle from "../../components/subTitle/subTitle"
 
 export function Skills() {
     return (
-        <section className="skills-main d-md-flex justify-content-center">
+        <section className="skills-main d-md-flex justify-content-center px-5 mt-5">
             <div className="d-flex flex-column align-items-center">
                 <div className="subtitle w-100 text-center">
                     <SubTitle
@@ -17,7 +17,7 @@ export function Skills() {
                     <div className="w-100 d-flex justify-content-center">
                         <p>Techs que uso no dia a dia</p>
                     </div>
-                    <div className="d-flex justify-content-center gap-3">
+                    <div className="d-flex flex-wrap justify-content-center gap-3">
                         <i class="devicon-react-original"></i>
                         <i class="devicon-nodejs-plain"></i>
                         <i class="devicon-typescript-plain"></i>
@@ -32,7 +32,7 @@ export function Skills() {
 
                 <div className="techs mt-5">
                     <p>Outras techs com que já realizei projetos</p>
-                    <div className="d-flex justify-content-center gap-3">
+                    <div className="d-flex flex-wrap justify-content-center gap-3">
                         <i class="devicon-mongodb-plain"></i>
                         <i class="devicon-sass-original"></i>
                         <i class="devicon-vuejs-plain"></i>

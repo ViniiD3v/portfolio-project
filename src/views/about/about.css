@@ -1,8 +1,7 @@
 
-
 .main-about {
     width: 100%;
-    max-height: 800px;
+    max-height: 1300px;
 }
 
 .main-about .subtitle {
@@ -16,7 +15,27 @@
 .about-text{
     max-width: 800px;
     text-align: justify;
-    font-size: 1.25rem;
     color: var(--white);
     opacity: 50%;
+}
+
+.main-about .about-image img{
+    max-width: 500px;
+    max-height: 500px;
+    border-radius: 50%;
+}
+
+@media (max-width: 991.90px) {
+    .main-about .about-image img{
+        max-width: 350px;
+        max-height: 350px;
+    }
+}
+
+@media (min-width: 992px) {
+    .main-container {
+    height: 800px;
+    }
+
+    
 }

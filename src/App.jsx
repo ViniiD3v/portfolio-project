@@ -8,23 +8,27 @@ import Baseboard from './views/baseboard/baseboard.jsx'
 
 function App() {
   return (
-    <div className='gap-3'>
+    <div className=''>
       <NavBar />
-      <div className='mb-3'>
+      <section id="home">
         <Main />
-      </div>
-      <div className='mb-3'>
+      </section>
+
+      <section id="about">
         <About />
-      </div>
-      <div className='mb-5'>
+      </section>
+
+      <section id="projects">
         <Projects />
-      </div>
-      <div className='mb-5'>
+      </section>
+
+      <section id="skills">
         <Skills />
-      </div>
-      <div className='mt-5'>
+      </section>
+
+      <section id="contact">
         <Baseboard />
-      </div>
+      </section>
     </div>
   )
 }
