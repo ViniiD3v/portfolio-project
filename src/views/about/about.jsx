@@ -1,16 +1,16 @@
 import "./about.css"
 import SubTitle from "../../components/subTitle/subTitle"
-import Perfil from "../../assets/perfil.png"
+import Perfil from "../../assets/home-images/perfil.png"
 
 
 function About() {
     return (
         <section className="border-main d-flex justify-content-center">
-            <div className="main-about d-md-flex align-items-center justify-content-md-between p-md-5 mt-5">
+            <div className="main-about d-xl-flex align-items-center justify-content-md-between p-md-5 mt-5">
                 <div className="about-image d-flex justify-content-center w-md-25 px-md-5 mb-5 mb-md-0">
                     <img src={Perfil} alt="" />
                 </div>
-                <div className="about-content px-5 w-md-75">
+                <div className="about-content d-flex flex-column d-flex flex-column mt-md-5 mt-lg-0 px-5">
                     <div className="pe-md-5">
                         <div className="subtitle">
                             <SubTitle

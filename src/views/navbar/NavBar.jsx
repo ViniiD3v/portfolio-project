@@ -1,5 +1,5 @@
 import './NavBar.css'
-import Logo from '../../assets/VN-Logo.png'
+import Logo from '../../assets/navbar-images/VN-Logo.png'
 import Collapse from "bootstrap/js/dist/collapse";
 
 
@@ -14,7 +14,7 @@ function NavBar() {
     };
 
     return (
-        <nav className="navbar navbar-expand-md navbar-dark mt-md-3">
+        <nav className="navbar navbar-expand-md navbar-dark mt-md-3 px-md-4 px-lg-0">
             <div className="nav-container-custom container-fluid px-4">
                 <a className="navbar-brand logo" href="#">
                     <img src={Logo} alt="logo VN" />
@@ -34,11 +34,11 @@ function NavBar() {
 
                 <div className="collapse navbar-collapse justify-content-end" id="navbarNav">
                     <div className="navbar-nav gap-4">
-                        <a className="nav-link" href="#home" onClick={closeMenu}>Home</a>
-                        <a className="nav-link" href="#about" onClick={closeMenu}>About</a>
-                        <a className="nav-link" href="#projects" onClick={closeMenu}>Projects</a>
-                        <a className="nav-link" href="#skills" onClick={closeMenu}>Skills</a>
-                        <a className="nav-link" href="#contact" onClick={closeMenu}>Contact</a>
+                        <a className="nav-link" href="#home" onClick={closeMenu}>Inicio</a>
+                        <a className="nav-link" href="#about" onClick={closeMenu}>Sobre</a>
+                        <a className="nav-link" href="#projects" onClick={closeMenu}>Projetos</a>
+                        <a className="nav-link" href="#skills" onClick={closeMenu}>Habilidades</a>
+                        <a className="nav-link" href="#contact" onClick={closeMenu}>Contato</a>
                     </div>
                 </div>
             </div>

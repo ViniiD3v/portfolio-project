@@ -5,6 +5,7 @@ import About from './views/about/about.jsx'
 import Projects from './views/projects/projects.jsx'
 import { Skills } from './views/skills/skills.jsx'
 import Baseboard from './views/baseboard/baseboard.jsx'
+import Contact from './views/contact/contact.jsx'
 
 function App() {
   return (
@@ -27,6 +28,10 @@ function App() {
       </section>
 
       <section id="contact">
+          <Contact />
+      </section>
+
+      <section >
         <Baseboard />
       </section>
     </div>

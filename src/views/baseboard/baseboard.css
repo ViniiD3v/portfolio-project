@@ -3,17 +3,6 @@
     height: 88px;
 }
 
-.baseboard .content-baseboard .contact a{
-    color: white;
-    opacity: 50%;
-    text-decoration: none;
-    font-size: 1.7rem
-}
-
-.baseboard .content-baseboard .contact a:hover{
-    opacity: 100%;
-}
-
 .baseboard .content-baseboard span{
     color: white;
     opacity: 50%;

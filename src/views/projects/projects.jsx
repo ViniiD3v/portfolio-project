@@ -1,9 +1,9 @@
 import "./projects.css"
 import SubTitle from "../../components/subTitle/subTitle"
 import Card from "../../components/cardProject/card"
-import TruffApp from "../../assets/trufApp.jfif"
-import Convert from "../../assets/Convert.jfif"
-import Refund from "../../assets/refund.jfif"
+import TruffApp from "../../assets/projects-images/trufApp.jfif"
+import Convert from "../../assets/projects-images/convert.jfif"
+import Refund from "../../assets/projects-images/refund.jfif"
 
 function Projects() {
     return (
@@ -17,7 +17,7 @@ function Projects() {
 
                 <h1>Trabalhos e projetos</h1>
             </div>
-            <div className="projects-content mt-lg-3 w-100 justify-content-between d-xl-flex px-5">
+            <div className="projects-content w-100  d-flex justify-content-center justify-content-xl-between flex-wrap px-xl-5 mt-lg-3 ">
                 <Card
                     name="TrufApp"
                     paragraph="O projeto foi criado para ajudar uma pessoa a organizar e calcular suas vendas de trufas. Com o TrufApp, dá para registrar o cliente, a quantidade vendida e o valor total é calculado automaticamente. O sistema também guarda tudo para acompanhar os ganhos do dia, do mês e do ano."

@@ -1,5 +1,5 @@
 import "./main.css"
-import Perfil from "../../assets/perfil.png"
+import Perfil from "../../assets/home-images/perfil.png"
 import { useEffect, useRef } from 'react';
 import Typed from 'typed.js';
 
@@ -29,8 +29,8 @@ function Main() {
                     <p className="">Hello World! Meu nome é Vinicius Santos Figueiredo e sou</p>
                     <h1><span ref={el} /></h1>
                     <div className="social-midias d-flex pt-lg-3 gap-3">
-                        <a target="_blank" href="https://www.linkedin.com/in/viniid3v"><i class="bi bi-linkedin"></i></a>
-                        <a target="_blank" href="https://github.com/ViniiD3v"><i class="bi bi-github"></i></a>
+                        <a target="_blank" href="https://www.linkedin.com/in/viniciussfigueiredo"><i class="bi bi-linkedin"></i></a>
+                        <a target="_blank" href="https://github.com/ViniciussFigueiredo"><i class="bi bi-github"></i></a>
                         <a target="_blank" href="https://drive.google.com/file/d/1T3SUIWveiqTGLxgUhddcjXKlzpz4Tn1O/view?usp=sharing"><i class="bi bi-file-earmark-text-fill"></i></a>
                     </div>
                 </div>
