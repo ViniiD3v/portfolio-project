@@ -10,7 +10,7 @@
 
 
 <p align="center">
-    <img src="../.github/example.png" alt="Image Example" width="400px">
+    <img src="/portfolio-vini//src/assets/navbar-images/VN-Logo.png" alt="Image Example" width="400px">
 </p>
 
 <h2 id="started">📌 Sobre</h2>
