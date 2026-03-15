@@ -9,10 +9,6 @@
 ![javascript][JAVASCRIPT__BADGE]
 
 
-<p align="center">
-    <img src="/portfolio-vini//src/assets/navbar-images/VN-Logo.png" alt="Image Example" width="400px">
-</p>
-
 <h2 id="started">📌 Sobre</h2>
 
 Este é o meu portfólio desenvolvido com React, onde compartilho um pouco sobre mim, minhas habilidades e os projetos que venho desenvolvendo. O objetivo é apresentar meu trabalho de forma clara e moderna, destacando as tecnologias que utilizo e minha experiência com desenvolvimento web. Sinta-se à vontade para explorar os projetos e conhecer mais sobre meu perfil profissional!
